@@ -1,4 +1,4 @@
-
+#!/bin/bash
 
 
 cat Property_Tax_Roll.csv \
